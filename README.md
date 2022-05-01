@@ -99,6 +99,8 @@ The subsequent sections below will examine the balanced accuracy scores and the 
 - The recall for low_risk is 95% indicating that a good portion of people who are low_risk were classified as such
 
 ## Summary
-![image_name](https://github.com/Mugunthan24/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20Classifier%20-%20Balanced%20Accuracy%20Score.png)
+![image_name](https://github.com/Mugunthan24/Credit_Risk_Analysis/blob/main/Images/Sorted%20Features.png)
 
-After analyzing the accuracy score, precision, and recall for all of the machine learning models it can be concluded that the Easy Ensemble AdaBoost Classifier is the best model of the six. However, to further improve the models, fewer input variables should be used in order to reduce "noise." 
+After analyzing the accuracy score, precision, and recall for all of the machine learning models it can be concluded that the Easy Ensemble AdaBoost Classifier is the best model of the six. However, to further improve the models, features with greater importance should be used in order to reduce "noise," like the ones in the table below.
+
+![image_name](https://github.com/Mugunthan24/Credit_Risk_Analysis/blob/main/Images/Sorted%20Features.png)
